@@ -22,9 +22,8 @@ body {
 }
 
 .headernav { 
-    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/brooklyn-bridge-by-night-brian-knott-forget-me-knott-photography.jpg");
-    background-size: cover;
-    min-height: 300px;
+
+    min-height: 200px;
     
   }
 
@@ -32,7 +31,10 @@ body {
     padding-top: 180px;
     padding-bottom: 200px;
     color: white;
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/brooklyn-bridge-by-night-brian-knott-forget-me-knott-photography.jpg");
+    background-size: cover;
   }
+
 
     .jumbotron h1 {
         text-align: center;
@@ -41,14 +43,142 @@ body {
     }
     .jumbotron p  {
         text-align: center;
+        font-size: 20pxpx;
     }
 
-    .btn {
-        margin-left: 500px;
+    .btn-primary{
+        margin-left: 600px;
+        background-color: greenyellow;
+        color:white;
+        border-radius: 200px;
     }
     
   .navbar {
       color: white;
   }
 
-  
+ hr {
+     background-color: white;
+ }
+
+ #nav {
+     background-color: white;
+     background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/brooklyn-bridge-by-night-brian-knott-forget-me-knott-photography.jpg");
+    
+ }
+ .container2 {
+     background-color: greenyellow;
+     padding: 100px;
+     color: white;
+    
+
+ }
+ .rounded-circle {
+     width: 600px;
+     height: 400px;
+     padding: 60px;
+     
+ }
+ 
+ .container2a {
+     margin-right: 1px;
+
+ }
+
+.container2b {
+    padding: 100px;
+    margin-left: 1px;
+}
+
+.container3 {
+    background-color: black;
+    color: white;
+    padding: 100px;
+
+}
+
+.container3a{
+    margin-left: 50px;
+
+}
+
+strong {
+    font-size: 25px;
+    font-weight: 5px;
+
+}
+p {
+    font-size: 20px;
+    padding: 20px;
+}
+
+.col4a {
+    background-image: url("https://zoelea.com/wp-content/uploads/2018/05/depth-of-field-desk-hands-210661-1-1024x683.jpg");
+    background-color: white;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.col-md-4 {
+    padding: 70px;
+    color: white;   
+    
+}
+.col4b {
+        background-image: url("https://d2gg9evh47fn9z.cloudfront.net/800px_COLOURBOX6672020.jpg");
+        background-color: white;
+        color: white;
+        padding: 70px;
+        
+}
+
+.col4c {
+    background-image: url("https://www.kmpm.ie/wp-content/uploads/2017/05/Vacating-Checklist-Image.jpg");
+    background-color: white;
+    color: black;
+    padding: 70px;
+    
+}
+.fa-apple-alt {
+    color: white;
+    padding: 20px;
+    margin: 10px;
+}
+
+.container5 {
+    padding: 70px;
+    
+}
+
+.fa-thumbtack {
+    color: chartreuse;
+    
+
+}
+.fa-phone {
+    align-content: flex-start;
+
+
+}
+
+.fa-copyright {
+
+}
+.container6 {
+    color: white;
+    background-color: chartreuse;
+    padding: 10px;
+    margin-left: 50px;
+}
+.container6a {
+    background-color: chartreuse;
+    padding-top: 30px;
+    
+}
+
+.container6b {
+    padding-top: 30px;
+    
+}
