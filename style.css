@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+
+}
+
+
+.navbar {
+    color: white;
+}
+.header-background {
+    position: static;
+    display: block;
+    overflow: visible;
+    top: 0;
+    height: auto;
+    min-height: 750px;
+    margin-bottom: 50px;
+    padding-bottom
+}
+
+.headernav { 
+    background-image: url("https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/brooklyn-bridge-by-night-brian-knott-forget-me-knott-photography.jpg");
+    background-size: cover;
+    min-height: 300px;
+    
+  }
+
+  .jumbotron {
+    padding-top: 180px;
+    padding-bottom: 200px;
+    color: white;
+  }
+
+    .jumbotron h1 {
+        text-align: center;
+        font-size: 100px;
+
+    }
+    .jumbotron p  {
+        text-align: center;
+    }
+
+    .btn {
+        margin-left: 500px;
+    }
+    
+  .navbar {
+      color: white;
+  }
+
+  
