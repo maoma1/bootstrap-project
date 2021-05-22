@@ -1,4 +1,51 @@
 
+body {
+    font-family: sans-serif;
+    margin: 0;
+}
+
+.hero { 
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("https://i.redd.it/jhqr2gr517zz.jpg");
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+
+
+
+.hero h1 {
+    font-size: 3.5em;
+}
+
+.hero p {
+    font-size: 1.5em;
+}
+
+
+.hero .btn {
+    width: 200px;
+    display: block;
+    background-color: yellowgreen;
+    color: white;
+    padding: 1em;
+    border: 3px yellowgreen;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+
 nav a:hover{ 
 	color:rgb(149, 230, 56); 
 	
@@ -13,39 +60,7 @@ nav a:hover{
     width: 50px;
 }   
     
-.jumbotron {
-    background-image: url("https://fedtrustfcu.com/wp-content/uploads/2017/02/mountains-at-sunset.jpg");
-    background-size: cover;
-    padding: 200px;
-    margin-top: 0;
-    
-}
 
-.jumbotron h1{
-    color: white;
-    margin-left: 50px;
-    margin-top: 0;
-    font-size: 100px;
-    font-weight: 10;
-    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-
-}
-
-.jumbotron p {
-    margin-left: 110px;
-    font-size: 20px;
-    color: white;
-    font-family:sans-serif;
-
-}
-
-.jumbotron .btn {
-    margin-left: 400px;
-    margin-top: 40px;
-    background-color:  rgb(149, 230, 56);;
-    border-color:  rgb(149, 230, 56);;
-    
-}
 
 .container3 .btn {
     background-color:  rgb(149, 230, 56);;
@@ -63,11 +78,7 @@ nav a:hover{
     padding: 50px;
 }
 
-body p {
-    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
-    font-size: 20px;
-    font-weight: 20px;
-}
+
 
 .container2 {
     color: white;
